@@ -4,9 +4,9 @@ import AboutHero from '@/features/about/components/about-hero';
 import InvestorsSection from '@/features/about/components/investors-section';
 import CompanyStory from '@/features/about/components/company-story';
 import MissionStats from '@/features/about/components/mission-stats';
-import JoinTeam from '@/features/about/components/join-team';
+
 import CareersSection from '@/features/about/components/careers-section';
-import LearnMoreCTA from '@/features/about/components/learn-more-cta';
+
 
 export const metadata: Metadata = {
   title: 'About Us - Syeda Fareeha Portfolio',
