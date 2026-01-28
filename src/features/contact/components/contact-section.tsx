@@ -24,18 +24,17 @@ const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
     const data = await res.json();
 
     if (res.ok) {
-         toast.success("Message sent successfully!");
-    
+      toast.success("Message sent successfully!");
       setFormData({ name: "", email: "", message: "" });
     } else {
       toast.error(data.message || "Something went wrong");
-     
     }
-  } catch (error) {
-     toast.error("Failed to send message");
-    
+  } catch (error: unknown) {
+    console.error("Contact form error:", error);
+    toast.error(error instanceof Error ? error.message : "Failed to send message");
   }
 };
+
 
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement | HTMLTextAreaElement>) => {
