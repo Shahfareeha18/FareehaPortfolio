@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "title": "Inspection CRM",
+    "keyPoints": [
+      "Secure Laravel backend with integrated payment system",
+      "Responsive and intuitive frontend interface",
+      "Role-based access control with comprehensive admin panel"
+    ],
+    "image": "/work/lead_inspection.png"
+  },
+  {
+    "id": 2,
+    "title": "Case Management System",
+    "keyPoints": [
+      "Custom dashboards for streamlined team productivity",
+      "Robust Laravel & MySQL backend",
+      "Interactive reports and analytics for informed decision-making"
+    ],
+    "image": "/work/case_management.png"
+  },
+  {
+    "id": 3,
+    "title": "Realiq",
+    "keyPoints": [
+      "Property management dashboards with real-time insights",
+      "Laravel & MySQL backend for reliable performance",
+      "Analytics and reporting tools for data-driven decisions"
+    ],
+    "image": "/work/properties_saler.png"
+  },
+  {
+    "id": 4,
+    "title": "UrbanLands",
+    "keyPoints": [
+      "Comprehensive dashboards for property and sales management",
+      "Laravel & MySQL backend ensuring secure data handling",
+      "Detailed analytics and reporting for optimized workflows"
+    ],
+    "image": "/work/properties_data.png"
+  },
+  {
+    "id": 5,
+    "title": "Tilismi",
+    "keyPoints": [
+      "Cutting-edge IT platform with custom dashboards for operational efficiency",
+      "Laravel & MySQL backend for scalable and secure performance",
+      "Interactive reports and analytics to track assets and optimize workflows"
+    ],
+    "image": "/work/tilismi.PNG"
+  },
+  {
+    "id": 6,
+    "title": "Fertix CRM",
+    "keyPoints": [
+      "Interactive dashboards for farm management and productivity tracking",
+      "Laravel & MySQL backend for reliable performance",
+      "Detailed analytics and reporting to optimize farm operations"
+    ],
+    "image": "/work/fertix.png"
+  },
+ {
+  "id": 8,
+  "title": "WareFlow",
+  "keyPoints": [
+    "Centralized dashboards to manage warehouse, fleet, and project operations",
+    "Laravel & MySQL backend for scalable and secure performance",
+    "Real-time tracking and analytics for efficient workflow and resource management"
+  ],
+  "image": "/work/wareflow.png"
+}
+
+]

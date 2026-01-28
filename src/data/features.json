@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Simple Accounting",
+    "icon": "/images/features-money-icon.svg",
+    "image": "/images/feature-dashboard-pink-1.png",
+    "gradient": "bg-gradient-to-b from-pink-300 via-pink-700 to-darkPink-900",
+    "features": [
+      "Automated financial tracking",
+      "Easy invoicing and payment reminders",
+      "Real-time access to your financial data"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Multiple Accounts",
+    "icon": "/images/features-profile-icon.svg",
+    "image": "/images/feature-dashboard-pink-2.png",
+    "gradient": "bg-gradient-to-t from-pink-300 via-pink-700 to-darkPink-900",
+    "features": []
+  },
+  {
+    "id": 3,
+    "title": "Detailed Analytics",
+    "icon": "/images/features-chart-icon.svg",
+    "image": "/images/feature-dashboard-pink-3.png",
+    "gradient": "bg-gradient-to-b from-pink-300 via-pink-700 to-darkPink-900",
+    "features": []
+  },
+  {
+    "id": 4,
+    "title": "Cloud-Based System",
+    "icon": "/images/features-cloud-icon.svg",
+    "image": "/images/feature-dashboard-pink-4.png",
+    "gradient": "bg-gradient-to-t from-pink-300 via-pink-700 to-darkPink-900",
+    "features": []
+  }
+]

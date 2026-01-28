@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "content": "We&rsquo;re very happy that they are created this amazing bookkeeping software.",
+    "highlightText": "very happy",
+    "author": {
+      "name": "Cooper Levin",
+      "title": "Founder of AIME Inc.",
+      "image": "/images/testimonial-avatar-1.png"
+    }
+  },
+  {
+    "id": 2,
+    "content": "Excited to Announce the Arrival of This Fantastic Bookkeeping Software.",
+    "highlightText": "Announce the Arrival",
+    "author": {
+      "name": "David Dobryk",
+      "title": "Founder & CEO",
+      "image": "/images/testimonial-avatar-1.png"
+    }
+  },
+  {
+    "id": 3,
+    "content": "Delighted to Introduce This Exceptional Bookkeeping Software Creation.",
+    "highlightText": "Introduce This",
+    "author": {
+      "name": "Milena Graz",
+      "title": "Head of Technology",
+      "image": "/images/testimonial-avatar-1.png"
+    }
+  }
+]

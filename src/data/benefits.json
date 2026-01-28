@@ -1,0 +1,32 @@
+[
+  {
+    "icon": "/images/careers-wallet-icon.svg",
+    "title": "Inclusive Health Package",
+    "description": "We care for your well-being, no health expense stress."
+  },
+  {
+    "icon": "/images/careers-weight-icon.svg",
+    "title": "Free Gym Membership",
+    "description": "Enjoy a complimentary gym membership for your fitness."
+  },
+  {
+    "icon": "/images/careers-global-icon.svg",
+    "title": "Flexible Working Style",
+    "description": "We&rsquo;re fully remote, working across time zones."
+  },
+  {
+    "icon": "/images/careers-happy-emoji.svg",
+    "title": "Balanced Working Life",
+    "description": "Enjoy 4-week vacations. Recharge as needed."
+  },
+  {
+    "icon": "/images/careers-messages-icon.svg",
+    "title": "Diversity and Inclusion",
+    "description": "Diversity in team members and inclusive culture."
+  },
+  {
+    "icon": "/images/careers-blur-effect.svg",
+    "title": "Generous Perks Program",
+    "description": "We offer stipends for home office, learning, and wellness perks."
+  }
+]

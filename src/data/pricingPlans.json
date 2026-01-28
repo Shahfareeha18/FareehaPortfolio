@@ -1,0 +1,41 @@
+{
+  "plans": [
+    {
+      "name": "Basic",
+      "monthlyPrice": 9,
+      "yearlyPrice": 97,
+      "period": "month",
+      "features": [
+        "Customized invoices",
+        "Automated reminders",
+        "Enable multiple payments",
+        "Helpful reports"
+      ]
+    },
+    {
+      "name": "Pro",
+      "monthlyPrice": 29,
+      "yearlyPrice": 313,
+      "period": "month",
+      "recommended": true,
+      "features": [
+        "Cashflow tracking",
+        "Add unlimited collaborators",
+        "Customized dashboard",
+        "Unlimited bank and credit card"
+      ]
+    },
+    {
+      "name": "Enterprise",
+      "monthlyPrice": 49,
+      "yearlyPrice": 529,
+      "period": "month",
+      "features": [
+        "All in Pro benefits",
+        "Auto sync to your dashboard",
+        "Flexible payments",
+        "Recurring billing"
+      ]
+    }
+  ]
+}

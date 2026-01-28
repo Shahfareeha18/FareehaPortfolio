@@ -1,0 +1,20 @@
+{
+  "faqs": [
+    {
+      "question": "How to add company details on my invoice?",
+      "answer": "You can easily add your company details by navigating to the Settings section in your dashboard. From there, go to Company Profile and fill in your business information including company name, address, tax ID, and logo. These details will automatically appear on all your invoices."
+    },
+    {
+      "question": "What payment methods are accepted?",
+      "answer": "We accept all major credit cards (Visa, MasterCard, American Express), PayPal, and bank transfers. For Enterprise customers, we also support ACH transfers and can discuss custom payment arrangements to meet your specific needs."
+    },
+    {
+      "question": "Can I upgrade or downgrade at any time?",
+      "answer": "Yes, you can change your plan at any time. When upgrading, you&rsquo;ll be charged a prorated amount for the remainder of your billing cycle. When downgrading, the change will take effect at the end of your current billing period, and you&rsquo;ll retain access to your current plan&rsquo;s features until then."
+    },
+    {
+      "question": "What happens when I cancel my subscription?",
+      "answer": "When you cancel your subscription, you&rsquo;ll continue to have access to all premium features until the end of your current billing period. After that, your account will revert to our free tier with basic functionality. Your data will be preserved for 90 days, giving you time to reactivate if needed."
+    }
+  ]
+}

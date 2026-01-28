@@ -1,0 +1,10 @@
+[
+  { "name": "Aurevo", "logo": "/images/brand-aurevo-logo.svg" },
+  { "name": "Syra", "logo": "/images/brand-syra-logo-light.svg" },
+  { "name": "Axiomatic", "logo": "/images/brand-axiomatic-logo.svg" },
+  { "name": "Lume", "logo": "/images/brand-lume-logo.svg" },
+  { "name": "Acme", "logo": "/images/brand-acme-logo.svg" },
+  { "name": "Cronix", "logo": "/images/brand-cronix-logo.svg" },
+  { "name": "Vector", "logo": "/images/vista-logo.svg" },
+  { "name": "Mana", "logo": "/images/vista-logo-dark.svg" }
+]
