@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import PageLayout from '@/components/layout/page-layout';
 import BlogSection from '@/features/blog/components/blog-section';
-import CTASection from '@/features/home/components/cta-section';
+
 
 export const metadata: Metadata = {
   title: 'Blog - Syeda Fareeha Portfolio',
@@ -12,7 +12,7 @@ export default function BlogPage() {
   return (
     <PageLayout title="Blog - Syeda Fareeha Portfolio">
       <BlogSection />
-      <CTASection />
+     
     </PageLayout>
   );
 }

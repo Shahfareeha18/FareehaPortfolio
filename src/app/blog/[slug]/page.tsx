@@ -5,7 +5,7 @@ import { notFound } from 'next/navigation';
 import Link from 'next/link';
 import Image from 'next/image';
 import PageLayout from '@/components/layout/page-layout';
-import CTASection from '@/features/home/components/cta-section';
+
 import blogData from '@/data/blogData.json';
 
 interface BlogSinglePageProps {
@@ -208,7 +208,6 @@ export default function BlogSinglePage({ params }: BlogSinglePageProps) {
         </div>
       </section>
 
-      <CTASection />
     </PageLayout>
   );
 }

@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import PageLayout from '@/components/layout/page-layout';
 import PricingSection from '@/features/pricing/components/pricing-section';
 import FAQSection from '@/features/pricing/components/faq-section';
-import CTASection from '@/features/home/components/cta-section';
+
 
 export const metadata: Metadata = {
   title: 'Pricing - Syeda Fareeha Portfolio',
@@ -14,7 +14,7 @@ export default function PricingPage() {
     <PageLayout title="Pricing - Syeda Fareeha Portfolio">
       <PricingSection />
       <FAQSection />
-      <CTASection />
+    
     </PageLayout>
   );
 }
